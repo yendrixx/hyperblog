@@ -1,5 +1,6 @@
 esta la historia de ...
-Tiene tantos años y nació en Colombia.
+Tiene tantos otros años y nació en Colombia, 
+viviendo en todo el mundo.
 hoy hablaremos de su historia. 
 si quieres ver los archivos ocultos de una carpeta puedes habilitar la opción 
 de Vista - Mostrar u ocultar Elementos ocultos o ejecutar el comando.
