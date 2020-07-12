@@ -1,17 +1,4 @@
 esta la historia de ...
-Tiene tantos otros años y nació en Colombia, 
-viviendo en todo el mundo.
-hoy hablaremos de su vida y obra maestra. 
-si quieres ver los archivos ocultos de una carpeta puedes habilitar la opción 
-de Vista - Mostrar u ocultar Elementos ocultos o ejecutar el comando.
-Le indicaremos a Git que queremos crear un nuevo repositorio para utilizar su sistema de control
-de versiones. solo debemos posicionarnos en la carperta raiz de nuestro proyecto y ejecutar el 
-comando git init.
-recuerda que la ejecutar este comando(y de aquí en adelante) vamos a tener una nueva
- carpeta oculta llamada .git con toda la base de datos con cambios atómicos en nuestro proyeto.
- Recuerda que git está optimizado para trabajar en equipo, por lo tanto, debemos
-  darle un poco de información sobre nosotros. 
-  No debemos hacerlo todas las veces que ejecutemos un comando, 
-  basta con ejecutar una sola vez los siguientes comandos con tu información. 
-  Existen otras configuraciones de Git que puedes encontrar ejecutando git congif
-  o solo git config para ver una explicación más detallada.
+Tiene tantos años y nació en Colombia.
+
+Ma'ana nos enfocaremos en su vida laboral.
