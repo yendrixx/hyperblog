@@ -40,3 +40,10 @@ body
     font-weight: normal;
     font-size:  0.8em;
 }
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+}
